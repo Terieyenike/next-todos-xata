@@ -210,6 +210,11 @@
     "@typescript-eslint/types" "5.40.1"
     eslint-visitor-keys "^3.3.0"
 
+"@xata.io/client@^0.19.0":
+  version "0.19.0"
+  resolved "https://registry.yarnpkg.com/@xata.io/client/-/client-0.19.0.tgz#480afbf9cd18d9422cf77011e655d5fc92c98fb4"
+  integrity sha512-llYDSKtM7rp8qJiFI/ppUiCVdpcGeRDeB+mlx1X46sRCfWg1DzZiF9DGbbPSExH9MeiTV57U1BMseBNozIGt3Q==
+
 acorn-jsx@^5.3.2:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
